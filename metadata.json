@@ -1,6 +1,0 @@
-{
-  "name": "Calm 3D Exploration Game",
-  "description": "A minimalist, calm 3D browser exploration game with smooth controls, interactive low-poly elements, and relaxing day/night settings.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
